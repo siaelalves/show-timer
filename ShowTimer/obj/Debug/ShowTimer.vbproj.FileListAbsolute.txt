@@ -1,0 +1,10 @@
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\bin\Debug\ShowTimer.exe.config
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\bin\Debug\ShowTimer.exe
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\bin\Debug\ShowTimer.pdb
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\bin\Debug\ShowTimer.xml
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\obj\Debug\ShowTimer.main.resources
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\obj\Debug\ShowTimer.Resources.resources
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\obj\Debug\ShowTimer.vbproj.GenerateResource.Cache
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\obj\Debug\ShowTimer.exe
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\obj\Debug\ShowTimer.xml
+E:\Siael Carvalho\Projetos\VS\ShowTimer\ShowTimer\obj\Debug\ShowTimer.pdb
